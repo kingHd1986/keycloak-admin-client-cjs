@@ -1,5 +1,5 @@
 {
-  "name": "@novin/keycloak-admin-client-cjs",
+  "name": "@novin-develop/keycloak-admin-client-cjs",
   "version": "24.0.3",
   "description": "Keycloak Admin Client compiled in CommonJS.",
   "keywords": [
