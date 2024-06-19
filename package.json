@@ -1,6 +1,6 @@
 {
   "name": "@novin-develop/keycloak-admin-client-cjs",
-  "version": "24.0.3",
+  "version": "25.0.0",
   "description": "Keycloak Admin Client compiled in CommonJS.",
   "keywords": [
     "keycloak-admin-client",
@@ -22,7 +22,7 @@
   "author": "Hamid Zare",
   "license": "MIT",
   "dependencies": {
-    "@keycloak/keycloak-admin-client": "24.0.3"
+    "@keycloak/keycloak-admin-client": "25.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.4.2",
